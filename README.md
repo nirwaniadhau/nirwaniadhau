@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/1c074eca-d81e-43bb-a70c-f44ef3d9f76a" />
+
 
 <!--
 **nirwaniadhau/nirwaniadhau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
