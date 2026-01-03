@@ -37,3 +37,13 @@ I love solving problems, building fast prototypes, and learning new tech!
 
 ---
 
+## GitHub Stats:
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirwaniadhau&show_icons=true&theme=radical)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirwaniadhau&layout=compact&theme=radical)
+
+
