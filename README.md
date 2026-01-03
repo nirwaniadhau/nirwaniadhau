@@ -27,4 +27,12 @@ I love solving problems, building fast prototypes, and learning new tech!
 
 [![LeetCode Badge](https://assets.leetcode.com/static_assets/others/2550.gif)](https://leetcode.com/Nirwani_Adhau/)
 
+## Leetcode Info
+
+<p align="center">
+  <a href="https://leetcode.com/Nirwani_Adhau/">
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/days-50.png" width="110">
+  </a>
+</p>
+
 
