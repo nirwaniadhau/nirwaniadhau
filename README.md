@@ -25,4 +25,6 @@ I love solving problems, building fast prototypes, and learning new tech!
 [![LeetCode Badge](https://leetcard.jacoblin.cool/Nirwani_Adhau?theme=dark)](https://leetcode.com/Nirwani_Adhau/)
 
 
+[![LeetCode Badge](https://assets.leetcode.com/static_assets/others/2550.gif)](https://leetcode.com/Nirwani_Adhau/)
+
 
