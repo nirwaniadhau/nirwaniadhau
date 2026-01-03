@@ -31,7 +31,7 @@ I love solving problems, building fast prototypes, and learning new tech!
 
 <p align="center">
   <a href="https://leetcode.com/Nirwani_Adhau/">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/days-50.png" width="110">
+    <img src="(https://assets.leetcode.com/static_assets/others/2550.gif)" width="110">
   </a>
 </p>
 
