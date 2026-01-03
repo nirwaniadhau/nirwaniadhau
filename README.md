@@ -37,22 +37,6 @@ I love solving problems, building fast prototypes, and learning new tech!
 
 ---
 
-## GitHub Stats:---
 
-<h2 align="center">📊 GitHub Stats:</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nirwaniadhau&theme=dark&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nirwaniadhau&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirwaniadhau&layout=compact&theme=dark" />
-</p>
-
----
 
 
