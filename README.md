@@ -22,3 +22,6 @@ I love solving problems, building fast prototypes, and learning new tech!
 
 I love solving problems, building fast prototypes, and learning new tech!
 
+![Nirwani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirwaniadhau&show_icons=true&theme=radical)
+
+
