@@ -30,13 +30,10 @@ I love solving problems, building fast prototypes, and learning new tech!
 
 
 
-<p align="center">
-  <a href="https://leetcode.com/Nirwani_Adhau/">
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirwaniadhau&show_icons=true&theme=tokyonight)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirwaniadhau&show_icons=true&theme=tokyonight)
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=nirwaniadhau&theme=tokyonight)
-  </a>
-</p>
+
 
 
 <h2 align="center">Leetcode Info</h2>
