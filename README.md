@@ -28,7 +28,10 @@ I love solving problems, building fast prototypes, and learning new tech!
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nirwaniadhau&show_icons=true&theme=tokyonight)
----
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nirwaniadhau&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nirwaniadhau&theme=tokyo-night)
 
 <h2 align="center">Leetcode Info</h2>
 
