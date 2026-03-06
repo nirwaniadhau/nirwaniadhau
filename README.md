@@ -24,19 +24,7 @@ I love solving problems, building fast prototypes, and learning new tech!
 
 
 
-## 📊 GitHub Stats
 
-
-
-
-
-<h2 align="center">Leetcode Info</h2>
-
-<p align="center">
-  <a href="https://leetcode.com/Nirwani_Adhau/">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="130">
-  </a>
-</p>
 
 ---
 
